@@ -15,7 +15,7 @@ MSc Computer Science @ ETH Zürich
 ```{=html}
 <p align="center">
 ```
-`<img src="https://readme-typing-svg.herokuapp.com/?lines=Robotics;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Building+Intelligent+Systems&center=true&width=520&height=45">`{=html}
+`<img src="https://readme-typing-svg.demolab.com/?lines=Robotics;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models&center=true&width=520&height=45">`{=html}
 ```{=html}
 </p>
 ```
