@@ -2,7 +2,7 @@
 
 **MSc Computer Science @ ETH Zürich**
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Robotics;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Building+Intelligent+Systems&center=true&width=500&height=45)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ML;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Robotics&center=true&width=500&height=45)
 
 ---
 
@@ -12,11 +12,11 @@ I'm a **Master's student in Computer Science at ETH Zürich** interested in buil
 
 My main interests:
 
-- 🤖 Robotics  
+- 🤖 Machine Learning systems  
 - 🧠 Reinforcement Learning  
 - 📊 Data Science  
 - ⚡ High-performance C++  
-- 🤖 Machine Learning systems  
+- 🤖 Robotics  
 
 I enjoy combining **algorithms, machine learning and systems programming** to solve complex real-world problems.
 
@@ -75,15 +75,7 @@ Robotics • RL • Data Science • ML • Optimization
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Lollo03c&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lollo03c&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lollo03c&theme=tokyo-night)
 
 ---
 
@@ -91,6 +83,3 @@ Robotics • RL • Data Science • ML • Optimization
 
 Robotics | Reinforcement Learning | Mapping | Optimization | LLMs | Data Science
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lollo03c&color=blue)
