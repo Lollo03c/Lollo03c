@@ -1,161 +1,96 @@
-```{=html}
-<h1 align="center">
-```
-Hi, I'm Lorenzo 👋
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-MSc Computer Science @ ETH Zürich
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com/?lines=Robotics;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models&center=true&width=520&height=45">`{=html}
-```{=html}
-</p>
-```
+# Hi, I'm Lorenzo 👋
 
-------------------------------------------------------------------------
+**MSc Computer Science @ ETH Zürich**
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Robotics;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Building+Intelligent+Systems&center=true&width=500&height=45)
+
+---
 
 ## 🧠 About me
 
-I am a **Master's student in Computer Science at ETH Zürich** interested
-in building **intelligent and efficient systems**.
+I'm a **Master's student in Computer Science at ETH Zürich** interested in building **intelligent and efficient systems**.
 
-My main interests lie at the intersection of:
+My main interests:
 
--   🤖 Robotics\
--   🧠 Reinforcement Learning\
--   📊 Data Science\
--   ⚡ High-performance C++\
--   🤖 Machine Learning systems
+- 🤖 Robotics  
+- 🧠 Reinforcement Learning  
+- 📊 Data Science  
+- ⚡ High-performance C++  
+- 🤖 Machine Learning systems  
 
-I enjoy combining **algorithms, machine learning and systems
-programming** to solve complex real-world problems.
+I enjoy combining **algorithms, machine learning and systems programming** to solve complex real-world problems.
 
-------------------------------------------------------------------------
+---
 
-# 🔬 Current Work
+## 🔬 Current Work
 
 ### 🗺️ MapAdapt
 
-I am currently working on **MapAdapt**, a software system designed to
-reconstruct environments using **adaptive resolution mapping**.
+Currently working on **MapAdapt**, a system that reconstructs environments using **adaptive resolution mapping**.
 
-The objective is to:
+Goals:
 
--   efficiently represent complex environments\
--   dynamically adapt map resolution depending on scene structure\
--   reduce memory footprint in robotic perception pipelines\
--   improve computational efficiency for mapping systems
+- efficiently represent complex environments  
+- dynamically adapt map resolution  
+- reduce memory footprint in robotics pipelines  
+- improve mapping efficiency
 
-------------------------------------------------------------------------
+---
 
-### 🤖 Machine Learning --- LLM Research
+### 🤖 Machine Learning — LLM Research
 
-I am currently exploring **Large Language Models**.
+I'm currently exploring **Large Language Models**.
 
-I am working on a project studying **LLM degeneration**, focusing on:
+Ongoing project:
 
--   detecting degeneration behaviours in generated text\
--   identifying causes of generation collapse\
--   designing strategies to **avoid or mitigate degeneration**
+- detecting **LLM degeneration behaviours**
+- understanding causes of **generation collapse**
+- designing techniques to **avoid degeneration**
 
-------------------------------------------------------------------------
+---
 
 ### 📊 Data Science
 
-I worked on a **Data Science project with AVIS Milano**, analyzing
-**medical datasets related to blood donation**.
+Worked on a **Data Science project with AVIS Milano**, analyzing **medical datasets related to blood donation**.
 
-The work included:
+Main tasks:
 
--   statistical analysis of healthcare data\
--   data exploration and visualization\
--   extracting insights for **data-driven decision making**
+- healthcare data analysis  
+- statistical exploration  
+- extracting insights for **data-driven decision making**
 
-------------------------------------------------------------------------
+---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+**Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+C++ • Python • CUDA • Bash
 
-### Fields
+**Fields**
 
-Robotics • Reinforcement Learning • Data Science • Machine Learning •
-Optimization
+Robotics • RL • Data Science • ML • Optimization
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Lollo03c&show_icons=true&theme=tokyonight">`{=html}
+![Stats](https://github-readme-stats.vercel.app/api?username=Lollo03c&show_icons=true&theme=tokyonight)
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lollo03c&layout=compact&theme=tokyonight">`{=html}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lollo03c&layout=compact&theme=tokyonight)
 
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+## 📈 Activity Graph
 
-# 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lollo03c&theme=tokyo-night)
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lollo03c&theme=tokyo-night">`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+## 🚀 Research Interests
 
-# 🐍 Contribution Snake
+Robotics | Reinforcement Learning | Mapping | Optimization | LLMs | Data Science
 
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
-
-# 🚀 Research Interests
-
-Robotics \| Reinforcement Learning \| Mapping \| Optimization \| LLMs \|
-Data Science
-
-------------------------------------------------------------------------
-
-# 👀 Profile Views
-
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Lollo03c&color=blue">`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# 🚀 Philosophy
-
-> Build intelligent systems that interact with the real world ---\
-> and make them efficient.
+![Profile Views](https://komarev.com/ghpvc/?username=Lollo03c&color=blue)
