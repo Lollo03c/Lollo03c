@@ -2,7 +2,7 @@
 
 **MSc Computer Science @ ETH Zürich**
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ML;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Robotics&center=true&width=500&height=45)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ML;Reinforcement+Learning;Data+Science;C%2B%2B+Optimization;Large+Language+Models;Robotics&center=true&width=500&height=45&duration=2000&pause=300)
 
 ---
 
