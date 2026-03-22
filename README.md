@@ -18,7 +18,7 @@ My main interests:
 - ⚡ High-performance C++  
 - 🤖 Robotics  
 
-I enjoy combining **algorithms, machine learning and systems programming** to solve complex real-world problems.
+I enjoy combining algorithms, machine learning, and systems programming to solve complex problems. I’m especially passionate about experimenting with new technologies and tools during hackathons.
 
 ---
 
@@ -39,7 +39,7 @@ Goals:
 
 ### 🤖 Machine Learning — LLM Research
 
-I'm currently exploring **Large Language Models**.
+I’m currently exploring **degeneration phenomena in Large Language Models** in collaboration with the **SWISS AI Center**
 
 Ongoing project:
 
@@ -65,7 +65,7 @@ Main tasks:
 
 **Languages**
 
-C++ • Python • CUDA • Bash
+C++ • Python • CUDA • Bash • SQL • sparkSQL • JSONIQ
 
 **Fields**
 
